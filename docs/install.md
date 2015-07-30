@@ -7,6 +7,8 @@ Prerequisites:
 * `localhost:8080` and/or `localhost:8443` available
 * at least 10-20G of free space
 
+For APT/YUM-based distros, you can install the *Docker Engine* via the [official repository](https://blog.docker.com/2015/07/new-apt-and-yum-repos/)!
+
 A seconda della propria distro:
 
     $ make debian8
