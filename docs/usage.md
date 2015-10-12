@@ -17,7 +17,7 @@ Per installare pacchetti Python:
 Per installare pacchetti con Bower:
 
     $ make front
-    # bower install..
+    # bower install --allow-root ..
 
 Per usare la shell Python direttamente:
 
